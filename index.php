@@ -62,10 +62,10 @@
                 $sqlMedCardNumberMax = "SELECT MAX(medical_card_number) FROM medical_card";
                 $resMedCardNumberMax = $conn -> query($sqlMedCardNumberMax) -> fetch_array()[0] + 1;
 
-                $sqlInsertMedCard = "INSERT INTO medical_card (medical_card_id, user_id, medical_card_number, date_release) VALUES(null, ".$resUserId.", ".$resMedCardNumberMax.", null)";
+                $sqlInsertMedCard = "INSERT INTO medical_card (medical_card_id, user_id, medical_card_number, date_release) VALUES(null, ".$resUserId.", ".$resMedCardNumberMax.", DEFAULT)";
                 $resInsertMedCard = $conn -> query($sqlInsertMedCard);
                 echo $sqlInsertMedCard;
-                //header("Location: index.php");
+                header("Location: index.php");
             }
             else { echo "Уже существует запись"; }
         }
