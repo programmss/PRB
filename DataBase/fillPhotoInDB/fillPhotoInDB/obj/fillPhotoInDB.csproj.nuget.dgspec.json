@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Программные решения для бизнеса\\podgotovka\\DataBase\\fillPhotoInDB\\fillPhotoInDB\\fillPhotoInDB.csproj": {}
+    "C:\\Users\\Андрей\\Desktop\\Программные решения для бизнеса\\DataBase\\fillPhotoInDB\\fillPhotoInDB\\fillPhotoInDB.csproj": {}
   },
   "projects": {
-    "E:\\Программные решения для бизнеса\\podgotovka\\DataBase\\fillPhotoInDB\\fillPhotoInDB\\fillPhotoInDB.csproj": {
+    "C:\\Users\\Андрей\\Desktop\\Программные решения для бизнеса\\DataBase\\fillPhotoInDB\\fillPhotoInDB\\fillPhotoInDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Программные решения для бизнеса\\podgotovka\\DataBase\\fillPhotoInDB\\fillPhotoInDB\\fillPhotoInDB.csproj",
+        "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\Программные решения для бизнеса\\DataBase\\fillPhotoInDB\\fillPhotoInDB\\fillPhotoInDB.csproj",
         "projectName": "fillPhotoInDB",
-        "projectPath": "E:\\Программные решения для бизнеса\\podgotovka\\DataBase\\fillPhotoInDB\\fillPhotoInDB\\fillPhotoInDB.csproj",
-        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
-        "outputPath": "E:\\Программные решения для бизнеса\\podgotovka\\DataBase\\fillPhotoInDB\\fillPhotoInDB\\obj\\",
+        "projectPath": "C:\\Users\\Андрей\\Desktop\\Программные решения для бизнеса\\DataBase\\fillPhotoInDB\\fillPhotoInDB\\fillPhotoInDB.csproj",
+        "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Андрей\\Desktop\\Программные решения для бизнеса\\DataBase\\fillPhotoInDB\\fillPhotoInDB\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "P:\\Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
