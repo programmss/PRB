@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2764F7D9-9D65-46B6-8FB6-03A810678E44}|WSRSession2Test2024\\WSRSession2Test2024.csproj|C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\wsrsession2test2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2764F7D9-9D65-46B6-8FB6-03A810678E44}|WSRSession2Test2024\\WSRSession2Test2024.csproj|solutionrelative:wsrsession2test2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2764F7D9-9D65-46B6-8FB6-03A810678E44}|WSRSession2Test2024\\WSRSession2Test2024.csproj|c:\\users\\andrey\\desktop\\wsrsession2test2024\\wsrsession2test2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2764F7D9-9D65-46B6-8FB6-03A810678E44}|WSRSession2Test2024\\WSRSession2Test2024.csproj|solutionrelative:wsrsession2test2024\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2764F7D9-9D65-46B6-8FB6-03A810678E44}|WSRSession2Test2024\\WSRSession2Test2024.csproj|c:\\users\\andrey\\desktop\\wsrsession2test2024\\wsrsession2test2024\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2764F7D9-9D65-46B6-8FB6-03A810678E44}|WSRSession2Test2024\\WSRSession2Test2024.csproj|solutionrelative:wsrsession2test2024\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2764F7D9-9D65-46B6-8FB6-03A810678E44}|WSRSession2Test2024\\WSRSession2Test2024.csproj|c:\\users\\andrey\\desktop\\wsrsession2test2024\\wsrsession2test2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2764F7D9-9D65-46B6-8FB6-03A810678E44}|WSRSession2Test2024\\WSRSession2Test2024.csproj|solutionrelative:wsrsession2test2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F452D-4532-4F89-94C1-C87DFAFF2BC1}|WSRSession2Test2024.Framework\\WSRSession2Test2024.Framework.csproj|C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\wsrsession2test2024.framework\\roompersonsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F452D-4532-4F89-94C1-C87DFAFF2BC1}|WSRSession2Test2024.Framework\\WSRSession2Test2024.Framework.csproj|solutionrelative:wsrsession2test2024.framework\\roompersonsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F452D-4532-4F89-94C1-C87DFAFF2BC1}|WSRSession2Test2024.Framework\\WSRSession2Test2024.Framework.csproj|C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\wsrsession2test2024.framework\\persontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F452D-4532-4F89-94C1-C87DFAFF2BC1}|WSRSession2Test2024.Framework\\WSRSession2Test2024.Framework.csproj|solutionrelative:wsrsession2test2024.framework\\persontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F452D-4532-4F89-94C1-C87DFAFF2BC1}|WSRSession2Test2024.Framework\\WSRSession2Test2024.Framework.csproj|C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\wsrsession2test2024.framework\\personinmapdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F452D-4532-4F89-94C1-C87DFAFF2BC1}|WSRSession2Test2024.Framework\\WSRSession2Test2024.Framework.csproj|solutionrelative:wsrsession2test2024.framework\\personinmapdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B489FF8-5007-4153-AE2F-A5CF8369F80C}|WSRSession2Test2024.WebAPI\\WSRSession2Test2024.WebAPI.csproj|C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\wsrsession2test2024.webapi\\controllers\\personsinmapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B489FF8-5007-4153-AE2F-A5CF8369F80C}|WSRSession2Test2024.WebAPI\\WSRSession2Test2024.WebAPI.csproj|solutionrelative:wsrsession2test2024.webapi\\controllers\\personsinmapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "WSRSession2Test2024\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024\\MainForm.Designer.cs",
+              "RelativeToolTip": "WSRSession2Test2024\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:37:30.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024\\Program.cs",
+              "RelativeDocumentMoniker": "WSRSession2Test2024\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024\\Program.cs",
+              "RelativeToolTip": "WSRSession2Test2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:37:26.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomPersonsData.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024.Framework\\RoomPersonsData.cs",
+              "RelativeDocumentMoniker": "WSRSession2Test2024.Framework\\RoomPersonsData.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024.Framework\\RoomPersonsData.cs",
+              "RelativeToolTip": "WSRSession2Test2024.Framework\\RoomPersonsData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:51:15.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonType.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024.Framework\\PersonType.cs",
+              "RelativeDocumentMoniker": "WSRSession2Test2024.Framework\\PersonType.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024.Framework\\PersonType.cs",
+              "RelativeToolTip": "WSRSession2Test2024.Framework\\PersonType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:51:15.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonInMapData.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024.Framework\\PersonInMapData.cs",
+              "RelativeDocumentMoniker": "WSRSession2Test2024.Framework\\PersonInMapData.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024.Framework\\PersonInMapData.cs",
+              "RelativeToolTip": "WSRSession2Test2024.Framework\\PersonInMapData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:51:12.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024\\MainForm.cs",
+              "RelativeDocumentMoniker": "WSRSession2Test2024\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024\\MainForm.cs [Design]",
+              "RelativeToolTip": "WSRSession2Test2024\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:29:37.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonsInMapController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024.WebAPI\\Controllers\\PersonsInMapController.cs",
+              "RelativeDocumentMoniker": "WSRSession2Test2024.WebAPI\\Controllers\\PersonsInMapController.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024.WebAPI\\Controllers\\PersonsInMapController.cs",
+              "RelativeToolTip": "WSRSession2Test2024.WebAPI\\Controllers\\PersonsInMapController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:30:00.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024\\MainForm.cs",
+              "RelativeDocumentMoniker": "WSRSession2Test2024\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\WSRSession2Test2024\\WSRSession2Test2024\\MainForm.cs",
+              "RelativeToolTip": "WSRSession2Test2024\\MainForm.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAIwGYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T15:18:04.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

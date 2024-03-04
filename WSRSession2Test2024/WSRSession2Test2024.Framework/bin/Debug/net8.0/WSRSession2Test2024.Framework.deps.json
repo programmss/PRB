@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WSRSession2Test2024.Framework/1.0.0": {
+        "runtime": {
+          "WSRSession2Test2024.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WSRSession2Test2024.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

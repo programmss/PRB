@@ -1,0 +1,6 @@
+@WSRSession2Test2024.WebAPI_HostAddress = http://localhost:5116
+
+GET {{WSRSession2Test2024.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

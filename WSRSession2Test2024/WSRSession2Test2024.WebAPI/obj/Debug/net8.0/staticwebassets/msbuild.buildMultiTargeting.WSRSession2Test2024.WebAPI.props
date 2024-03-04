@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WSRSession2Test2024.WebAPI.props" />
+</Project>
